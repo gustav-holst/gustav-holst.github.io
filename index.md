@@ -96,12 +96,12 @@
           </div>
           <div class="col-md-6 mb-5">
             <p>Wattlearn is a simple yet powerful energy visualization tool developed to maximize the value for the user. It is a result of a project done in collaboration with Stockholm City. Stockholm City believe that in order to reduce
-            energy consumption, it is important that the energy data easily can be visualized and analyzed.</p>
-            <p>However, consumption data a scarce resource. Therefore our idea was to create a platform would entice users with the an intuitive and functional service in order to collect data. In order to do this,
-              needs and wants presented during discussions with property managers were implemented. Whether you want to display multiple facilities at once in a comprehensive way, or forecast your future consumption, Wattlearn has you covered by being an all-in-one solution.</p>
+            energy consumption, it is important that energy data easily can be visualized and analyzed.</p>
+            <p>However, consumption data is a scarce resource. Therefore our idea was to create a platform would entice users with an intuitive and functional service in order to collect data. To do this,
+              the needs and wants of property managers, presented during discussions, were implemented. Whether you want to display multiple facilities at once in a comprehensive way, or forecast your future consumption, Wattlearn has you covered by being an all-in-one solution.</p>
             <h5 class="text-black">Our research question:</h5>
             <p><i>"How should a platform visualizing energy consumption be designed and technically implemented in order to provide value for tenant-owner associations, public housing companies and Stockholm City respectively?"</i></p>
-            <a href="#">GitHub Repository</a>
+            <a href="https://gits-15.sys.kth.se/jakobve/Wattlearn">GitHub Repository</a>
 
           </div>
           <div class="col-md-5 ml-auto">
